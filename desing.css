@@ -1,0 +1,36 @@
+html {
+  background-color: rgb(232, 195, 250);
+}
+
+p {
+  color: rgb(214, 202, 226);
+}
+
+.test {
+  background-color: chocolate;
+  text-align: center;
+}
+
+.flew {
+  background-color: blueviolet;
+  border-radius: 2mm;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 1rem;
+  background-position: center;
+}
+
+h2 {
+  color: azure;
+}
+
+h1 {
+  color: rgb(180, 47, 237);
+}
+
+#sky {
+  color: burlywood;
+  size-adjust: 50%;
+  align-content: center;
+  box-sizing: border-box;
+}
